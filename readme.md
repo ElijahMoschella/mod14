@@ -1,0 +1,1 @@
+this blog bpost sitree allows for login and logout functionality. you can navigate tyhrtouyght the webpage witht the menu bar at the top of the page.when u make new blog posts it is logged on the backednd database and you are shown a updated dsahboard of the new post 
